@@ -1,22 +1,20 @@
+import React from 'react';
 
-function Welcome () {
-	
+function Welcome() {
+
 	return (
-		<div className="pt-20 w-full h-fit flex flex-row bg-[url('src/assets/mpdarkbg.webp')] bg-cover bg-blend-darken justify-center">
-			<img src="src/assets/cover3d.png" className="w-1/3"/>
-			<div className="w-96 flex flex-col justify-center">
-				<h2 className="text-white">
-					Last realease
-				</h2>
-				<h1 className="text-white">
-					Danza entre la cenezas
-				</h1>
-				<p className="text-white">
-					Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris vehicula enim sit amet pellentesque iaculis. Nullam maximus laoreet fringilla. Nunc volutpat rhoncus tempus. Donec volutpat urna non fringilla tincidunt. Sed sagittis dui justo, at mattis velit posuere id.
-				</p>
+		<div className="relative w-full z-0">
+			<img
+				className="h-64 w-full object-cover rounded-md"
+				src="src/assets/serros3.jpg"
+				alt="Random image"
+			/>
+			<div className="absolute inset-0 bg-gray-700 opacity-60 rounded-md"></div>
+			<div className="absolute inset-0 flex items-center justify-center">
+				<h2 className="text-white text-3xl font-bold">Get Lost in Mountains</h2>
 			</div>
 		</div>
-	)
+	);
 }
 
 export default Welcome;
