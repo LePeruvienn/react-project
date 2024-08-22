@@ -21,9 +21,9 @@ function Navbar () {
 				<a href="#" className="text-lg text-grey-darkest hover:text-red-700 ml-10">
 					Contact
 				</a>
-				<button type="button" className="ml-10 text-white text-lg bg-gradient-to-r from-red-400 via-red-500 to-red-600 hover:bg-gradient-to-br focus:ring-4 focus:outline-none focus:ring-red-300 dark:focus:ring-red-800 shadow-lg shadow-red-500/50 dark:shadow-lg dark:shadow-red-800/80 font-medium rounded-lg text-sm px-5 py-2.5 text-center me-2 mb-2">
-					Free Except
-				</button>
+					<button type="button" className="ml-10 text-white text-lg font-bold bg-red-500 focus:ring-4 focus:outline-none focus:ring-red-300 dark:focus:ring-red-800 font-medium rounded-lg text-sm px-5 py-2.5 text-center me-2 mb-2">
+						Free Excerpt
+					</button>
 			</div>
 		</nav>
 	)
