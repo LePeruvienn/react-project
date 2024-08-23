@@ -1,11 +1,11 @@
 
-function Blog () {
+function Book () {
 
 	return (
 		<div className="">
-			Blog
+			Book
 		</div>
 	)
 }
 
-export default Blog;
+export default Book;

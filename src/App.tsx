@@ -1,22 +1,25 @@
-import Navbar from "./components/Navbar.tsx"
-import Welcome from "./components/Welcome.tsx"
-import Header from "./components/Header.tsx"
+import { BrowserRouter } from 'react-router-dom';
+import { Routes } from 'react-router-dom';
+import { Route } from 'react-router-dom';
+
+import Home from "./components/Home.tsx"
 import About from "./components/About.tsx"
-import Interview from "./components/Interview.tsx"
+import Book from "./components/Book.tsx"
+import Blog from "./components/Blog.tsx"
 import Contact from "./components/Contact.tsx"
-import Footer from "./components/Footer.tsx"
 
 function App() {
 	return (
-		<main>
-			<Navbar/>
-			<Welcome/>
-			<Header/>
-			<About/>
-			<Interview/>
-			<Contact/>
-			<Footer/>
-		</main>
+		<BrowserRouter>
+			<Routes>
+			  <Route exact path="/" element={<Home/>} />
+			  <Route exact path="/home" element={<Home/>} />
+			  <Route exact path="/book" element={<Book/>} />
+			  <Route exact path="/about" element={<About/>} />
+			  <Route exact path="/blog" element={<Blog/>} />
+			  <Route exact path="/contact" element={<Contact/>} />
+			</Routes>
+		</BrowserRouter>
 	)
 }
 
