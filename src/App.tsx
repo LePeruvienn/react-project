@@ -1,8 +1,9 @@
 import Navbar from "./components/Navbar.tsx"
 import Welcome from "./components/Welcome.tsx"
 import Header from "./components/Header.tsx"
-import Books from "./components/Books.tsx"
 import About from "./components/About.tsx"
+import Interview from "./components/Interview.tsx"
+import Contact from "./components/Contact.tsx"
 import Footer from "./components/Footer.tsx"
 
 function App() {
@@ -12,6 +13,8 @@ function App() {
 			<Welcome/>
 			<Header/>
 			<About/>
+			<Interview/>
+			<Contact/>
 			<Footer/>
 		</main>
 	)

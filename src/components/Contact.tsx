@@ -1,12 +1,12 @@
 
-function Books () {
+function Contact () {
 
 	return (
 		
 		<div className="w-full h-160 bg-white">
-			Books
+			Contact
 		</div>
 	)
 }
 
-export default Books;
+export default Contact;

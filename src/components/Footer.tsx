@@ -20,13 +20,16 @@ function Footer () {
 								<a href="#" class="hover:underline"> Home </a>
 							</li>
 							<li class="mb-4">
-								<a href="#" class="hover:underline"> About </a>
-							</li>
-							<li class="mb-4">
 								<a href="#" class="hover:underline"> Book </a>
 							</li>
 							<li class="mb-4">
 								<a href="#" class="hover:underline"> Blog </a>
+							</li>
+							<li class="mb-4">
+								<a href="#" class="hover:underline"> About </a>
+							</li>
+							<li class="mb-4">
+								<a href="#" class="hover:underline"> Contact </a>
 							</li>
 						</ul>
 					</div>
