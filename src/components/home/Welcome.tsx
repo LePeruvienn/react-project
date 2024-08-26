@@ -5,7 +5,7 @@ function Welcome() {
 	return (
 		<div className="relative w-full z-0">
 			<img
-				className="h-200 w-full object-cover rounded-md"
+				className="h-224 w-full object-cover rounded-md"
 				src="src/assets/serros3.jpg"
 			/>
 			<div className="absolute inset-0 bg-black opacity-80"></div>
