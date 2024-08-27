@@ -24,7 +24,7 @@ function Header () {
 					</h1>
 				</div>
 				<img 
-					src="src/assets/cover3dTab.png"
+					src="img/cover3dTab.png"
 					className="w-136 mx-auto"
 				/>
 				<button 

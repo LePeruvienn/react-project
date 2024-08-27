@@ -23,7 +23,7 @@ function About () {
 					</Link>
 				</div>
 				<div className="flex items-center justify-center">
-					<img className="w-112 rounded-md" src="src/assets/fabiolarfi.jpg" alt="Fabiola Pinel"/>
+					<img className="w-112 rounded-md" src="img/fabiolarfi.jpg" alt="Fabiola Pinel"/>
 				</div>
 			</div>
 		</div>

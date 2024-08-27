@@ -6,11 +6,11 @@ function Welcome() {
 		<div className="relative w-full z-0">
 			<img
 				className="h-224 w-full object-cover rounded-md"
-				src="src/assets/serros3.jpg"
+				src="img/serros3.jpg"
 			/>
 			<div className="absolute inset-0 bg-black opacity-80"></div>
 			<div className="absolute inset-0 flex items-center justify-center -ml-24">
-				<img src="src/assets/cover3d.png" className="w-176"/>
+				<img src="img/cover3d.png" className="w-176"/>
 				<div className="flex flex-col text-left w-160">
 					<h2 className="uppercase font-bold font-sans text-red-500 text-4xl">Last Release</h2>
 					<h1 className="my-7 pl-7 text-white text-7xl border-l-4 border-red-500"> Danza entre la Cenizas</h1>

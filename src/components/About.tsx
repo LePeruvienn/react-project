@@ -4,7 +4,7 @@ import Footer from "./general/Footer.tsx"
 
 function About () {
 
-	const image = "src/assets/serros3.jpg";
+	const image = "img/serros3.jpg";
 	const heading = "About";
 	const text = "More details about me";
 

@@ -15,7 +15,7 @@ function Interview () {
 			</div>
 			<iframe 
 				className="m-auto mt-10 w-232 aspect-video flex flex-row justify-center items-center"
-				src="https://www.youtube.com/embed/VikQTD4R5gE?si=_nkUKGfLGGzWJbq7" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen
+				src="https://www.youtube.com/embed/VikQTD4R5gE?si=_nkUKGfLGGzWJbq7" title="YouTube video player" frameBorder="0" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen
 			></iframe>
 		</div>
 	)

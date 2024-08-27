@@ -7,19 +7,19 @@ function Blog () {
 
 	const cards = [
 		{
-			image: "src/assets/serros3.jpg",
+			image: "img/serros3.jpg",
 			heading: "heading 1",
 			text: "more details about card 1",
 			author: "Fabiola PINEL",
 		},
 		{
-			image: "src/assets/serros3.jpg",
+			image: "img/serros3.jpg",
 			heading: "heading 2",
 			text: "more details about card 2",
 			author: "Fabiola PINEL",
 		},
 		{
-			image: "src/assets/serros3.jpg",
+			image: "img/serros3.jpg",
 			heading: "heading 3",
 			text: "more details about card 3",
 			author: "Fabiola PINEL",

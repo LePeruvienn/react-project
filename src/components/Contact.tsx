@@ -7,7 +7,7 @@ import Form from "./contact/Form.tsx"
 
 function Contact () {
 
-	const image = "src/assets/serros3.jpg";
+	const image = "img/serros3.jpg";
 	const heading = "Contact";
 	const text = "Get In Touch";
 

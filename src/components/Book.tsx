@@ -4,7 +4,7 @@ import Footer from "./general/Footer.tsx"
 
 function Book () {
 
-	const image = "src/assets/serros3.jpg";
+	const image = "img/serros3.jpg";
 	const heading = "Book";
 	const text = "Danza entre la cenizas";
 
