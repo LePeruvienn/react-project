@@ -25,7 +25,7 @@ function Form () {
 					<label htmlFor="message" className="block mb-2 text-lg font-medium text-gray-900 ">
 						Your message
 					</label>
-					<textarea id="message" rows="6" className="block p-2.5 w-full text-sm text-gray-900 bg-gray-50 rounded-lg shadow-sm border border-gray-300" placeholder="Write a message ..."></textarea>
+					<textarea id="message" rows={6} className="block p-2.5 w-full text-sm text-gray-900 bg-gray-50 rounded-lg shadow-sm border border-gray-300" placeholder="Write a message ..."></textarea>
 				</div>
 				<button type="submit" className="text-white text-lg font-bold bg-red-500 focus:ring-4 focus:outline-none focus:ring-red-300 dark:focus:ring-red-800 font-medium rounded-lg text-sm px-5 py-2.5 text-center">
 					Send Message
