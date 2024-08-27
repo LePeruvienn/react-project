@@ -10,7 +10,7 @@ import Contact from "./components/Contact.tsx"
 
 function App() {
 	return (
-		<BrowserRouter>
+		<BrowserRouter basename="/react-project">
 			<Routes>
 				<Route path="/" element={<Home/>} />
 				<Route path="/home" element={<Home/>} />
