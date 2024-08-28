@@ -2,6 +2,9 @@ import Navbar from "./general/Navbar.tsx"
 import Header from "./general/Header.tsx"
 import Footer from "./general/Footer.tsx"
 
+import Main from "./book/Main.tsx"
+import Reviews from "./book/Reviews.tsx"
+
 function Book () {
 
 	const image = "img/serros3.jpg";
@@ -16,6 +19,10 @@ function Book () {
 				heading={heading}
 				text={text}
 			/>
+
+			<Main/>
+			<Reviews/>
+			
 			<Footer/>
 		</main>
 	)
