@@ -2,6 +2,9 @@ import Navbar from "./general/Navbar.tsx"
 import Header from "./general/Header.tsx"
 import Footer from "./general/Footer.tsx"
 
+import Main from "./about/Main.tsx"
+
+
 function About () {
 
 	const image = "img/serros3.jpg";
@@ -16,6 +19,9 @@ function About () {
 				heading={heading}
 				text={text}
 			/>
+
+			<Main/>
+
 			<Footer/>
 		</main>
 	)

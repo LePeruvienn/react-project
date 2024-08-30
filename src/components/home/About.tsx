@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 function About () {
 
 	return (
-		<div className="flex items-center justify-center w-full h-212 bg-gray-900">
+		<div className="flex items-center justify-center w-full bg-gray-900">
 			<div className="grid grid-cols-2 gap-20 p-28 w-full max-w-7xl">
 				<div>
 					<h2 className="uppercase text-2xl font-bold leading-none tracking-tight text-red-500">

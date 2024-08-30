@@ -6,7 +6,7 @@ function Interview () {
 		
 		<div className="w-full h-200 bg-gray-200 mx-auto">
 			<div className="pt-20 text-center">
-				<h2 className="uppercase text-2xl font-bold leading-none tracking-tight text-red-500">
+				<h2 className="uppercase text-2xl font-bold text-red-500">
 					Interview
 				</h2>
 				<h1 className="text-5xl text-gray-900 font-extrabold inline-block border-b-4 border-b-red-500 pb-5">
