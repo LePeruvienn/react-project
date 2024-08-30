@@ -1,4 +1,4 @@
-import React, { useRef } from 'react';
+import { useRef } from 'react';
 
 import Review from "./Review.tsx"
 
@@ -20,7 +20,7 @@ function Reviews () {
 
 	// Carousel
 	
-	const carouselRef = useRef (null);
+	const carouselRef = useRef (document.createElement("div"));
 
 	const carouselLeft = () => {
 		carouselRef.current.scrollBy({ left: -carouselRef.current.offsetWidth, behavior: 'smooth' });
