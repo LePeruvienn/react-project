@@ -9,7 +9,7 @@ function Main () {
 		<div className="w-3/4 mx-auto py-20 flex flex-row justify-center">
 
 			<div className="w-1/2 flex flex-col items-center">
-				<img src="public/img/cover3d.png"/>
+				<img src="img/cover3d.png"/>
 				<h2 className="uppercase -mt-10 p-7 text-center text-gray-900 text-3xl font-bold border-t-4 border-red-500">
 					Buy Online
 				</h2>
