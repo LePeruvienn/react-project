@@ -10,10 +10,6 @@ function Languages () {
 
 	// il18n Setup
 	const { i18n } = useTranslation ();
-
-	// Getting currentLanguage and creating state for current language
-	const [currentLanguage, setCurrentLanguage] = useState (i18n.language);
-
 	// Chaging language function
 	const handleLanguageChange = (lng: string) => {
 
