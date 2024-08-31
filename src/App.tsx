@@ -1,6 +1,7 @@
 import { BrowserRouter } from 'react-router-dom';
 import { Routes } from 'react-router-dom';
 import { Route } from 'react-router-dom';
+import './i18n.ts'; 
 
 import Home from "./components/Home.tsx"
 import About from "./components/About.tsx"

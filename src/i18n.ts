@@ -1,9 +1,9 @@
 
-import i18n from 'i18next';
+import i18n from "i18next";
 import { initReactI18next } from 'react-i18next';
-import enTranslations from './locales/en/translation.json';
-import frTranslations from './locales/fr/translation.json';
-import esTranslations from './locales/es/translation.json';
+import enTranslations from "./locales/en/translations.json";
+import frTranslations from "./locales/fr/translations.json";
+import esTranslations from "./locales/es/translations.json";
 
 i18n
 	.use(initReactI18next)
@@ -12,11 +12,11 @@ i18n
 			en: {
 				translation: enTranslations,
 			},
-			fr: {
-				translation: frTranslations,
-			},
 			es: {
 				translation: esTranslations,
+			},
+			fr: {
+				translation: frTranslations,
 			},
 		},
 		lng: 'en', // Langue par défaut
