@@ -15,9 +15,9 @@ function Card ({image, heading, text, author}: Props) {
 			</a>
 			<div className="p-5">
 				<a href="#">
-					<h5 className="uppercase mb-2 text-2xl font-bold tracking-tight text-gray-900">
+					<h1 className="uppercase mb-2 text-2xl font-bold tracking-tight text-gray-900">
 						{heading}
-					</h5>
+					</h1>
 				</a>
 				<p className="font-normal text-gray-700">
 					{text}

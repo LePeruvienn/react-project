@@ -14,8 +14,16 @@ function Main () {
 					Buy Online
 				</h2>
 
-				<StoreButton name="Amazon" type="eBook"/>
-				<StoreButton name="El Inti" type="Paper Book"/>
+				<StoreButton 
+					name="Amazon" 
+					type="eBook"
+					link="https://www.amazon.com/-/es/Fabiola-PINEL-ebook/dp/B0BRQSWK4V"
+				/>
+				<StoreButton 
+					name="El Inti" 
+					type="Paper Book"
+					link="https://www.boutique-peruvienne.com/ecrivains-peruviens-de-france/danza-entre-cenizas-fabiola-pinel-ed-apogeo.html"
+				/>
 
 			</div>
 
