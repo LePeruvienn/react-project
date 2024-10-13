@@ -1,7 +1,10 @@
 {
-  "home": "Inicio",
-  "book": "Libro",
-  "blog": "Blog",
-  "about": "Mi",
-  "contact": "Contacto"
+	"home": "Inicio",
+	"book": "Libro",
+	"blog": "Blog",
+	"about": "Mi",
+	"contact": "Contacto",
+	"about_p1": "Soy bailarina, coreógrafa, profesora de ballet, psicomotricista y escritora francoperuana. Resido en Francia desde hace más de veinte años, y el arte, en todas sus manifestaciones, me apasiona como vehículo de expresión y educación por excelencia. Feminista, mujer y madre, participo en la diáspora latinoamericana en París, integrando colectivos donde mi sensibilidad como artista se alinea con la experiencia migrante. Este espacio surge tras la publicación de mi primera novela Danza entre cenizas (Lima, editorial Apogeo, 2022): una historia íntima que explora la participación de mujeres adolescentes en el movimiento subversivo de Sendero Luminoso en la Lima de los años ochenta y noventa en Perú.",
+	"about_p2": "Mis intereses giran en torno al arte, el movimiento, la identidad, la memoria, el género y la violencia política, entre otros. Aspiro dar voz y cuerpo a lo que se silencia, a lo que duele y se oculta, a lo que despierta emociones profundas, y a mostrar que, al final, no somos tan diferentes. Mi objetivo es romper los clichés que nos dividen.",
+	"about_p3": "Considero que el arte llega a los corazones, allí donde muchas veces la razón y los prejuicios nos alejan."
 }

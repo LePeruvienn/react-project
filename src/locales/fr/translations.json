@@ -1,7 +1,10 @@
 {
-  "home": "Acceuil",
-  "book": "Livre",
-  "blog": "Blog",
-  "about": "Moi",
-  "contact": "Contact"
+	"home": "Acceuil",
+	"book": "Livre",
+	"blog": "Blog",
+	"about": "Moi",
+	"contact": "Contact",
+	"about_p1": "Je suis danseuse, chorégraphe, professeur de danse classique, psychomotricienne et écrivain français. Je vis en France depuis plus de vingt ans, et je suis passionnée par l'art, dans toutes ses manifestations, comme véhicule d'expression et d'éducation par excellence. Féministe, femme et mère, je participe à la diaspora latino-américaine à Paris, en intégrant des collectifs où ma sensibilité d'artiste s'aligne sur l'expérience des migrants. Cet espace est né après la publication de mon premier roman Danza entre cenizas (Lima, éditorial Apogeo, 2022) : une histoire intime qui explore la participation des adolescentes au mouvement subversif du Sentier lumineux à Lima dans les années 1980 et 1990 au Pérou.",
+	"about_p2": "Mes intérêts tournent autour de l'art, du mouvement, de l'identité, de la mémoire, du genre et de la violence politique, entre autres. J'aspire à donner voix et corps à ce qui est réduit au silence, à ce qui blesse et est caché, à ce qui éveille des émotions profondes, et à montrer que, finalement, nous ne sommes pas si différents. Mon but est de briser les clichés qui nous divisent.",
+	"about_p3": "Je crois que l'art touche les cœurs, là où la raison et les préjugés nous séparent souvent."
 }

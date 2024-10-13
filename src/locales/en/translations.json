@@ -1,7 +1,10 @@
 {
-  "home": "Home",
-  "book": "Book",
-  "blog": "Blog",
-  "about": "About",
-  "contact": "Contact"
+	"home": "Home",
+	"book": "Book",
+	"blog": "Blog",
+	"about": "About",
+	"contact": "Contact",
+	"about_p1": "I am a dancer, choreographer, ballet teacher, psychomotor therapist and writer from France. I have been living in France for more than twenty years, and I am passionate about art, in all its manifestations, as a vehicle of expression and education par excellence. Feminist, woman and mother, I participate in the Latin American diaspora in Paris, integrating collectives where my sensibility as an artist is aligned with the migrant experience. This space arises after the publication of my first novel Danza entre cenizas (Lima, editorial Apogeo, 2022): an intimate story that explores the participation of adolescent women in the subversive movement of Sendero Luminoso in Lima in the eighties and nineties in Peru.",
+	"about_p2": "My interests revolve around art, movement, identity, memory, gender and political violence, among others. I aspire to give voice and body to what is silenced, to what hurts and is hidden, to what awakens deep emotions, and to show that, in the end, we are not so different. My goal is to break the clichés that divide us.",
+	"about_p3": "I believe that art touches hearts, where reason and prejudice often keep us away."
 }
